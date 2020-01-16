@@ -49,6 +49,8 @@ group :development, :test do
   gem 'rspec-rails'
   # Factories for unit testing
   gem 'factory_bot_rails'
+
+  gem 'dotenv-rails', groups: [:development, :test]
 end
 
 group :development do
