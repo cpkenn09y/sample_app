@@ -29,5 +29,8 @@ module SampleApp
 
     # Don't generate system test files.
     config.generators.system_tests = nil
+
+    # Adding lib directory into autoload path
+    config.autoload_paths += %W(#{config.root}/lib)
   end
 end
