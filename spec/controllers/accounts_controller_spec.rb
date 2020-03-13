@@ -2,7 +2,7 @@ require 'rails_helper'
 
 describe AccountsController, :type => :controller do
 
-  describe "POST update" do
+  describe "POST count" do
 
     before do
       @account = create(:account)
