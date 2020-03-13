@@ -32,5 +32,7 @@ module SampleApp
 
     # Adding lib directory into autoload path
     config.autoload_paths += %W(#{config.root}/lib)
+
+    config.active_record.schema_format = :sql
   end
 end
