@@ -1,0 +1,1122 @@
+{
+  "intro_welcome_message": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "intro_welcome_message",
+                  "type": "video",
+                  "name": "intro_welcome_message",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "intro_disclaimer": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "intro_disclaimer",
+                  "type": "video",
+                  "name": "intro_disclaimer",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "intro_walkthru_hi": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "intro_walkthru_hi",
+                  "type": "video",
+                  "name": "intro_walkthru_hi",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "intro_walkthru_tour": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "intro_walkthru_tour",
+                  "type": "video",
+                  "name": "intro_walkthru_tour",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "intro_walkthru_title": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "intro_walkthru_title",
+                  "type": "video",
+                  "name": "intro_walkthru_title",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "intro_walkthru_playbar": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "intro_walkthru_playbar",
+                  "type": "video",
+                  "name": "intro_walkthru_playbar",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "intro_walkthru_menu": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "intro_walkthru_menu",
+                  "type": "video",
+                  "name": "intro_walkthru_menu",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "intro_walkthru_moveon": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "intro_walkthru_moveon",
+                  "type": "video",
+                  "name": "intro_walkthru_moveon",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "phrases_about_thanks": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "phrases_about_thanks",
+                  "type": "video",
+                  "name": "phrases_about_thanks",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "intro_nav_select_no_all": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "intro_nav_select_no_all",
+                  "type": "video",
+                  "name": "intro_nav_select_no_all",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_harveyOpening": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_harveyOpening",
+                  "type": "video",
+                  "name": "life_harveyOpening",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_intro_PrimaryWage": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_intro_PrimaryWage",
+                  "type": "video",
+                  "name": "life_intro_PrimaryWage",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_intro_OptionManyHouseholds": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_intro_OptionManyHouseholds",
+                  "type": "video",
+                  "name": "life_intro_OptionManyHouseholds",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_intro_IndependentLifestyle": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_intro_IndependentLifestyle",
+                  "type": "video",
+                  "name": "life_intro_IndependentLifestyle",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_intro_70Percent": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_intro_70Percent",
+                  "type": "video",
+                  "name": "life_intro_70Percent",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_intro_85Percent": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_intro_85Percent",
+                  "type": "video",
+                  "name": "life_intro_85Percent",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_intro_PassAway": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_intro_PassAway",
+                  "type": "video",
+                  "name": "life_intro_PassAway",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_intro_ValueOfLifeInsurance": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_intro_ValueOfLifeInsurance",
+                  "type": "video",
+                  "name": "life_intro_ValueOfLifeInsurance",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_intro_simplyput": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_intro_simplyput",
+                  "type": "video",
+                  "name": "life_intro_simplyput",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_intro_closerlook": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_intro_closerlook",
+                  "type": "video",
+                  "name": "life_intro_closerlook",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatisit_intro": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatisit_intro",
+                  "type": "video",
+                  "name": "life_whatisit_intro",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatisit_yearsAhead": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatisit_yearsAhead",
+                  "type": "video",
+                  "name": "life_whatisit_yearsAhead",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatisit_ensure": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatisit_ensure",
+                  "type": "video",
+                  "name": "life_whatisit_ensure",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatisit_agreement": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatisit_agreement",
+                  "type": "video",
+                  "name": "life_whatisit_agreement",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatisit_IfYouDie": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatisit_IfYouDie",
+                  "type": "video",
+                  "name": "life_whatisit_IfYouDie",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatisit_accidentalDeath": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatisit_accidentalDeath",
+                  "type": "video",
+                  "name": "life_whatisit_accidentalDeath",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatisit_employerPaysOption": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatisit_employerPaysOption",
+                  "type": "video",
+                  "name": "life_whatisit_employerPaysOption",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatiscovered_break": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatiscovered_break",
+                  "type": "video",
+                  "name": "life_whatiscovered_break",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatiscovered_covered": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatiscovered_covered",
+                  "type": "video",
+                  "name": "life_whatiscovered_covered",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatiscovered_employerBasic": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatiscovered_employerBasic",
+                  "type": "video",
+                  "name": "life_whatiscovered_employerBasic",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatiscovered_employerAdditional": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatiscovered_employerAdditional",
+                  "type": "video",
+                  "name": "life_whatiscovered_employerAdditional",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatiscovered_limit": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatiscovered_limit",
+                  "type": "video",
+                  "name": "life_whatiscovered_limit",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatiscovered_maxCoverage2": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatiscovered_maxCoverage2",
+                  "type": "video",
+                  "name": "life_whatiscovered_maxCoverage2",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatiscovered_coverage": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatiscovered_coverage",
+                  "type": "video",
+                  "name": "life_whatiscovered_coverage",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatiscovered_lovedones": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatiscovered_lovedones",
+                  "type": "video",
+                  "name": "life_whatiscovered_lovedones",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatiscovered_RememberList": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatiscovered_RememberList",
+                  "type": "video",
+                  "name": "life_whatiscovered_RememberList",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatiscovered_beginProcess": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatiscovered_beginProcess",
+                  "type": "video",
+                  "name": "life_whatiscovered_beginProcess",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whatiscovered_ClaimFiled": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whatiscovered_ClaimFiled",
+                  "type": "video",
+                  "name": "life_whatiscovered_ClaimFiled",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "ADD_intro": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "ADD_intro",
+                  "type": "video",
+                  "name": "ADD_intro",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "ADD_intro_consequences": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "ADD_intro_consequences",
+                  "type": "video",
+                  "name": "ADD_intro_consequences",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "ADD_intro_million": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "ADD_intro_million",
+                  "type": "video",
+                  "name": "ADD_intro_million",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "ADD_intro_lost_limb": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "ADD_intro_lost_limb",
+                  "type": "video",
+                  "name": "ADD_intro_lost_limb",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "ADD_sudden_accident": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "ADD_sudden_accident",
+                  "type": "video",
+                  "name": "ADD_sudden_accident",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "ADD_covered_accident": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "ADD_covered_accident",
+                  "type": "video",
+                  "name": "ADD_covered_accident",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "ADD_option_dependents": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "ADD_option_dependents",
+                  "type": "video",
+                  "name": "ADD_option_dependents",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "ADD_paid_covered_accident": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "ADD_paid_covered_accident",
+                  "type": "video",
+                  "name": "ADD_paid_covered_accident",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "ADD_notcovered_illness": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "ADD_notcovered_illness",
+                  "type": "video",
+                  "name": "ADD_notcovered_illness",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "ADD_determined_loss": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "ADD_determined_loss",
+                  "type": "video",
+                  "name": "ADD_determined_loss",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "ADD_rightforyou": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "ADD_rightforyou",
+                  "type": "video",
+                  "name": "ADD_rightforyou",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whydoyouneedit_break": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whydoyouneedit_break",
+                  "type": "video",
+                  "name": "life_whydoyouneedit_break",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whydoyouneedit_enrollGroup": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whydoyouneedit_enrollGroup",
+                  "type": "video",
+                  "name": "life_whydoyouneedit_enrollGroup",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whydoyouneedit_GroupLifeLeastExpensive": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whydoyouneedit_GroupLifeLeastExpensive",
+                  "type": "video",
+                  "name": "life_whydoyouneedit_GroupLifeLeastExpensive",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whydoyouneedit_millionTimes": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whydoyouneedit_millionTimes",
+                  "type": "video",
+                  "name": "life_whydoyouneedit_millionTimes",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whydoyouneedit_noLongerAround": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whydoyouneedit_noLongerAround",
+                  "type": "video",
+                  "name": "life_whydoyouneedit_noLongerAround",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whydoyouneedit_mortgage": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whydoyouneedit_mortgage",
+                  "type": "video",
+                  "name": "life_whydoyouneedit_mortgage",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_whydoyouneedit_coverFuneral": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_whydoyouneedit_coverFuneral",
+                  "type": "video",
+                  "name": "life_whydoyouneedit_coverFuneral",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_isItRightForYou_getStarted": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_isItRightForYou_getStarted",
+                  "type": "video",
+                  "name": "life_isItRightForYou_getStarted",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_isItRightForYou_toldMe": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_isItRightForYou_toldMe",
+                  "type": "video",
+                  "name": "life_isItRightForYou_toldMe",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_isItRightForYou_financialSupport": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_isItRightForYou_financialSupport",
+                  "type": "video",
+                  "name": "life_isItRightForYou_financialSupport",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_isItRightForYou_half": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_isItRightForYou_half",
+                  "type": "video",
+                  "name": "life_isItRightForYou_half",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_isItRightForYou_debt": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_isItRightForYou_debt",
+                  "type": "video",
+                  "name": "life_isItRightForYou_debt",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_isItRightForYou_basicCoverage": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_isItRightForYou_basicCoverage",
+                  "type": "video",
+                  "name": "life_isItRightForYou_basicCoverage",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_isItRightForYou_youAndFamily": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_isItRightForYou_youAndFamily",
+                  "type": "video",
+                  "name": "life_isItRightForYou_youAndFamily",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_isItRightForYou_purchaseMore": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_isItRightForYou_purchaseMore",
+                  "type": "video",
+                  "name": "life_isItRightForYou_purchaseMore",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_isItRightForYou_purchase": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_isItRightForYou_purchase",
+                  "type": "video",
+                  "name": "life_isItRightForYou_purchase",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_isItRightForYou_maybe_not": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_isItRightForYou_maybe_not",
+                  "type": "video",
+                  "name": "life_isItRightForYou_maybe_not",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "calc_input_coverage": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "calc_input_coverage",
+                  "type": "video",
+                  "name": "calc_input_coverage",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "calc_results_basicplus_EEplus_SAN": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "calc_results_basicplus_EEplus_SAN",
+                  "type": "video",
+                  "name": "calc_results_basicplus_EEplus_SAN",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "life_isItRightForYou_start_okay": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "life_isItRightForYou_start_okay",
+                  "type": "video",
+                  "name": "life_isItRightForYou_start_okay",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  },
+  "right4u_enroll_now2": {
+      "data": {
+          "textKeyFrames": [],
+          "details": {
+              "videoAssetDetails": {
+                  "id": "right4u_enroll_now2",
+                  "type": "video",
+                  "name": "right4u_enroll_now2",
+                  "duration": 10,
+                  "width": 640,
+                  "height": 480
+              }
+          }
+      },
+      "version": "2.1"
+  }
+}
